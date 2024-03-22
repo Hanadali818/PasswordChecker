@@ -6,7 +6,7 @@ Clone Repository:
 
 bash
 Copy code
-git clone <repository_url>
+git clone https://github.com/Hanadali818/PasswordChecker.git
 Install Dependencies:
 
 Copy code
